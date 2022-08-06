@@ -6,6 +6,7 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 //WE ARE DOING THE ACCOUNT ACTIONS IN THIS CLASS
 // githubdaki ekranda yazdim
+// github tekrar yazdim
 
 public class Account {
     private int accountNumber;
